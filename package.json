@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-gwyng-lgyn10",
+  "name": "eslint-config-gwyng-lgyn",
   "version": "1.0.0",
-  "description": "gwyng에서 코드 스타일을 커스텀했다.",
+  "description": "gwyng-lgyn",
   "main": "index.js",
   "dependencies": {
     "eslint-config-universe": "^12.0.0",
@@ -11,6 +11,6 @@
   "peerDependencies": {
     "eslint": ">= 3"
   },
-  "author": "lgyn10",
+  "author": "lgyn",
   "license": "ISC"
 }
