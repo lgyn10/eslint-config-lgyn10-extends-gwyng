@@ -25,7 +25,7 @@ module.exports = {
       },
     ],
     'react-hooks/exhaustive-deps': 'warn',
-    "quotes": ["error", "single"],
-    'prettier/prettier': ['error', { printWidth: 500 }],
+    "quotes": ["warn", "single"],
+    'prettier/prettier': ['warn', { printWidth: 150 }],
   },
 };
