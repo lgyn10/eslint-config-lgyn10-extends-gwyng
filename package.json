@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-gwyng-lgyn",
+  "name": "eslint-config-lgyn10-extends-gwyng",
   "version": "1.0.0",
-  "description": "gwyng-lgyn",
+  "description": "lgyn10 Extends gwyng",
   "main": "index.js",
   "dependencies": {
     "eslint-config-universe": "^12.0.0",
@@ -11,6 +11,6 @@
   "peerDependencies": {
     "eslint": ">= 3"
   },
-  "author": "lgyn",
+  "author": "lgyn10",
   "license": "ISC"
 }
